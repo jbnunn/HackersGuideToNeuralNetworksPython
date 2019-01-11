@@ -1,6 +1,6 @@
 # Hacker's Guide to Neural Networks
 
-This follows @karpathy's excellent [guide to neural nets](http://karpathy.github.io/neuralnets/), and provides a Jupyter notebook to help readers understand the concepts (I took his JS code and converted to Python).
+This follows @karpathy's excellent [guide to neural nets](http://karpathy.github.io/neuralnets/), and provides a Jupyter notebook to help readers understand the concepts (I copy many of his comments verbatim, but I took his JS code and converted to Python).
 
 From [Hacker news](https://news.ycombinator.com/item?id=18840747):
 
